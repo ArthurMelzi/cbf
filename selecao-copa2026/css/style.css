@@ -1,5 +1,6 @@
 body {
     background-color: #57a0ff;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 nav {
@@ -11,9 +12,24 @@ nav {
 
 .title {
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
 }
 
 .banner {
     text-align: center;
     border: 1px solid #335e96;
+}
+.convocados {
+    text-align: center;
+}
+
+.jogador {
+    color: white;
+    border: 1px solid yellow;
+    background-color: green;
+}
+
+.descricao {
+    text-align: center;
+    color: white;
 }
