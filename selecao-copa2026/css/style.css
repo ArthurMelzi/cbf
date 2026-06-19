@@ -19,6 +19,7 @@ nav {
     text-align: center;
     border: 1px solid #335e96;
 }
+
 .convocados {
     text-align: center;
 }
@@ -27,6 +28,10 @@ nav {
     color: white;
     border: 1px solid yellow;
     background-color: green;
+}
+
+.hexa {
+    text-align: center;
 }
 
 .descricao {
